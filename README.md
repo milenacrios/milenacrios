@@ -1,8 +1,6 @@
 ### Hey, eu sou Milena Rios 🫶
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a computer science student at UFT
 - 🌱 I’m currently learning genetic algorithms and machine lerning with python for TCC. 
 - 😄 Pronouns: she/her
