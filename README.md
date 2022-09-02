@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently a computer science student at UFT
-- 🌱 I’m currently learning genetic algorithms and machine lerning with python for TCC. 
+- 🌱 I’m currently learning genetic algorithms and machine learning with python for TCC. 
 - 😄 Pronouns: she/her
 
 
