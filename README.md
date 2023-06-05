@@ -1,4 +1,4 @@
-### Hey, eu sou Milena Rios 🫶
+### Hey, I'm Milena Rios 💟
 
 
 - 🔭 I’m currently a computer science student at UFT
