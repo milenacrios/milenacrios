@@ -1,8 +1,8 @@
 ### Hey, I'm Milena Rios 💟
 
 
-- 🔭 I’m currently a computer science student at UFT
-- 🌱 I’m currently learning TypeScript, React and Flutter. 
+- 🔭 I’m Software Engineer and Computer Scientist from UFT
+- 🌱 I program with javascript, typescript and React. 
 - 😄 Pronouns: she/her
 
 
