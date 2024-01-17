@@ -28,12 +28,6 @@
 
   ##
   
-<div> 
-  <a href="https://www.youtube.com/channel/UCtvF5_mFxPSMJdSyvfLNtaw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/riosmilena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:milena.rios@mail.uft.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/milena-rios-1171731b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
 
 ![Snake animation](https://github.com/milenacrios/milenacrios/blob/output/github-contribution-grid-snake.svg)
