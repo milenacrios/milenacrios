@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/milenacrios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenacrios&layout=compact&langs_count=7&theme=dracula"/>
 </div>
