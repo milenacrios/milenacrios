@@ -1,9 +1,9 @@
-### Hey, I'm Milena Rios 💟
+### Hey, I'm Milena Rios 
 
 
 - 🔭 I’m Software Engineer and Computer Scientist from UFT
-- 🌱 I program with javascript, typescript and React. 
-- 😄 Pronouns: she/her
+- 💌 I like books, music, game, moovies and i love so much my two cats: Lucca and Chico
+- 👩🏽 she/her
 
 
 <div align="left">
