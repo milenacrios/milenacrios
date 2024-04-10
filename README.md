@@ -9,11 +9,4 @@
 <div align="center">
   <a href="https://github.com/milenacrios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenacrios&layout=compact&langs_count=7&theme=dracula"/>
- 
-          
 </div>
-
-
-
-
-![Snake animation](https://github.com/milenacrios/milenacrios/blob/output/github-contribution-grid-snake.svg)
