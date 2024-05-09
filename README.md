@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m Software Engineer and Computer Scientist from UFT
-- 💌 I like books, musics, games, moovies and i love so much my two cats: Lucca and Chico
+- 💌 I like books, musics, games, moovies and I love so much my two cats: Lucca and Chico
 - 👩🏽 she/her
 
 
